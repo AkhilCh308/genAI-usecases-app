@@ -24,16 +24,9 @@ A Streamlit web app that showcases **3 real-world GenAI applications** across su
 
 ---
 
-## 🖼️ Screenshots
-
-> (Add demo screenshots here)
-
----
-
 ## 📽️ Demo Video
 
-👉 [Watch the demo video](#)  
-(*Add your YouTube or Google Drive link here*)
+👉 [Watch the demo video](https://drive.google.com/file/d/1Qk31c8t6Mq5RH4aD3vbLnyWevQB7GIWg/view?usp=drive_link)  
 
 ---
 
