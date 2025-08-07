@@ -41,19 +41,19 @@ A Streamlit web app that showcases **3 real-world GenAI applications** across su
 ```
 ## 🚀 Setup & Run the App
 
-### ✅ Step 1: Clone the Repository
+### Step 1: Clone the Repository
 
 ```bash
 git clone https://github.com/AkhilCh308/genAI-usecases-app.git
 cd genai-usecases-app
 ```
-### ✅ Step 2: Install dependencies
+### Step 2: Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### ✅ Step 3: Add your Groq API key
+### Step 3: Add your Groq API key
 
 ### Create a .env file:
 ```bash
@@ -65,7 +65,7 @@ export GROQ_API_KEY=your_groq_api_key_here  # for Mac/Linux
 set GROQ_API_KEY=your_groq_api_key_here     # for Windows
 ```
 
-### ✅ Step 4: Run the app
+### Step 4: Run the app
 
 ```bash
 streamlit run genai_usecases_streamlit_app.py
